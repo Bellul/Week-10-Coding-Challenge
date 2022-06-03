@@ -38,7 +38,7 @@
 //*2nd try
 //! THIS ONE IS THE ANSWER
 
-//TODO: this is for taking the numbers out of the string
+//TODO: create variables for the 2 dates being compared
 
 let date1 = new Date("January 1, 2019");
 let date2 = new Date("June 25, 2019");
